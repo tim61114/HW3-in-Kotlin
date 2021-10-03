@@ -1,0 +1,1 @@
+class Review (var text: String, var score: Int){}
